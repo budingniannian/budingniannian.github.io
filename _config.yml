@@ -1,6 +1,5 @@
 resume_url: "Resume.pdf"
-author_name: "Tan Zubin"
-url: johndoe.com
+author_name: "nian nian"
 
 plugins:
   - jekyll-seo-tag
