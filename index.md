@@ -1,5 +1,6 @@
 ---
 layout: home
-home_text: SUPERFICIALITY
+home_text: Architecture
+Photography
 title: nian nian 
 ---
