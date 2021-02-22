@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Architecture Photography Graphics
+home_text: Graphics Architecture Photography
 title: nian nian 
 ---
